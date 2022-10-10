@@ -1,4 +1,4 @@
-![Welcome Stranger](https://raw.githubusercontent.com/MographlloCode/php-studies/main/9%20-%20readme-content/code_php.png "Welcome Stranger")
+![Welcome Stranger](https://raw.githubusercontent.com/MographlloCode/php-studies/main/9%20-%20readme-content/php_banner.png "Welcome Stranger")
 
 # PHP Studies - From Zero to Hero
 That repository is made to store my PHP studies, from hero to zero.
@@ -25,4 +25,4 @@ That repository is made to store my PHP studies, from hero to zero.
 19. Laravel - Building APIs
 
 ### Personal Links:
-[![Linkedin](https://raw.githubusercontent.com/MographlloCode/php-studies/0dac33c46606a2baf8ccbac88e627c9d47c0415c/9%20-%20readme-content/linkedln.svg "Linkedin")](https://www.linkedin.com/in/mographllo/ "Linkedin")
+[![Linkedin](https://raw.githubusercontent.com/MographlloCode/php-studies/c6af51e3a2eda67da8df700275b8865ee4a82267/9%20-%20readme-content/linkedln.svg "Linkedin")](https://www.linkedin.com/in/mographllo/ "Linkedin")
